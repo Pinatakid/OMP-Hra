@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">OMP_Hra</string>
+    <string-array name="query_suggestions">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>SCALA</item>
+        <item>Ruby</item>
+        <item>Learn Android</item>
+        <item>Develop Android</item>
+        <item>Google Android</item>
+        <item>All about Android</item>
+        <item>Some Android Stuff</item>
+        <item>JavaScript</item>
+    </string-array>
 </resources>
